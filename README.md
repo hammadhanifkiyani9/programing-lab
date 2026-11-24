@@ -1,5 +1,5 @@
 # programing-lab
-Hammad hanif kiani 
+Hammad Hanif kiani 
 Roll no-11
 BS Software Engineering Technology 
 
